@@ -1,5 +1,6 @@
 Developer: Ganga Nakarmi
-Date: 2026-07-28
+Date: 2026-08-08
 Description: Web map built in QGIS. Dev copy for use by Guardians of West Fork (a non-profit) 
 Updated: 
     2026-07-29 - Legend expanded 
+    2026-08-08 - More Layers - adjusted opacity to show hillshade
