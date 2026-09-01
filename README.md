@@ -9,3 +9,4 @@ Updated:
     2026-08-29 - final testing - prepare for HTML tweaks
     2026-08-30 - testing layer visibility settings - working problem with svg files
     2026-08-31 - final version - includes html tweaks and popups. 
+    2026-09-01 - clean up popups - more html tweaks
